@@ -7,5 +7,5 @@ This is a simple weather app that uses the OpenWeatherMap API to get the weather
 
 # Deployment
 
-* For the *weather-app* folder execute: ``serve -s build``
+* From the *weather-app* folder execute: ``serve -s build``
 * Weather app will be available at: http://localhost:3000

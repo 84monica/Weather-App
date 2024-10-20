@@ -5,7 +5,7 @@ It provides the weather forecast for a given city for the next 5 days.
 
 # Demo
 
-https://github.com/user-attachments/assets/a2093895-7d24-419a-bc0b-bc71dcb9ef69
+https://github.com/user-attachments/assets/02da3204-928c-46ea-8d9b-f811b640dcbb
 
 # How to run
 

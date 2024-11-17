@@ -3,6 +3,8 @@
 This simple weather app was created using React and the OpenWeatherMap API. 
 It provides the weather forecast for a given city for the next 5 days. 
 
+Web App Available on: https://84monica.github.io/Weather-App/
+
 # Demo
 
 https://github.com/user-attachments/assets/aee0eb35-e441-4cca-9ce8-e7d56651c30b
